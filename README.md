@@ -1,6 +1,12 @@
 # EfficientDet-Object-Detection
 PyTorch Implementation of EfficientDet: Scalable and Efficient Object Detection **EfficientDet: Scalable and Efficient Object Detection** [paper](https://arxiv.org/abs/1911.09070)
 
+To run object Detection on Google Colab - 
+
+https://colab.research.google.com/drive/1dugPLJDZJLFhya9pcdU-gk1d7YrzZJQp?usp=sharing
+
+NOTE: Upload your video in the "Test_Videos" folder and the detected output video will be saved in "output_folder" you can download it later
+
 Create a data folder under the repository,
 
 ```
