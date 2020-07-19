@@ -19,3 +19,8 @@ mkdir data
       ├── train2017
       └── val2017
   ```
+* **Train your model** by running **python train.py**
+* **Evaluate mAP for COCO dataset** by running **python mAP_evaluation.py**
+* **Test your model for COCO dataset** by running **python test_dataset.py --pretrained_model path/to/trained_model**
+* **Test your model for video** by running **python test_video.py --pretrained_model path/to/trained_model --input path/to/input/file --output path/to/output/file**
+
