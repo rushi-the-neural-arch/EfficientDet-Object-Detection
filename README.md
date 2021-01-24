@@ -1,7 +1,7 @@
 # EfficientDet-Object-Detection
 PyTorch Implementation of EfficientDet: Scalable and Efficient Object Detection **EfficientDet: Scalable and Efficient Object Detection** [paper](https://arxiv.org/abs/1911.09070)
 
-To run object Detection on Google Colab - 
+To run object Detection on Google Colab:
 
 https://colab.research.google.com/drive/1dugPLJDZJLFhya9pcdU-gk1d7YrzZJQp?usp=sharing
 
